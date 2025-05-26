@@ -43,7 +43,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your solution URL here](#)
+- Solution URL: [https://github.com/Godman1/Loopstudio-Landing-Page](#)
 - Live Site URL: [https://loopstudio28.netlify.app/](#)
 
 ## My Process
@@ -123,8 +123,7 @@ For deployment instructions, see the [Hosting Your Loopstudios Landing Page guid
 
 ## Author
 
-- Website - [Your Name](https://your-website.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://twitter.com/yourusername)
+- Website - [Professor]
+
 
      
